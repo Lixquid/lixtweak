@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 2 }
+  ],
+  "output" : { "item" : "composite01material", "count" : 1 },
+  "groups" : [ "plain", "materials", "all" ]
+}
