@@ -1,0 +1,18 @@
+[
+	{
+		"op": "add", "path": "/defaultBlueprints/portable3dprinter/-",
+		"value": { "item": "steelplatform" }
+	},
+	{
+		"op": "add", "path": "/defaultBlueprints/portable3dprinter/-",
+		"value": { "item": "lunarbaseplatform" }
+	},
+	{
+		"op": "add", "path": "/defaultBlueprints/portable3dprinter/-",
+		"value": { "item": "outpostwall1" }
+	},
+	{
+		"op": "add", "path": "/defaultBlueprints/portable3dprinter/-",
+		"value": { "item": "outpostwall2" }
+	}
+]
